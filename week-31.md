@@ -47,29 +47,46 @@ Voor 2 personen, 5 kookdagen (maandag t/m vrijdag). Dinsdag en donderdag zijn ve
 
 **Bereiding (ca. 25 min):** Spaghetti koken volgens verpakking. Gehakt met ui rul bakken, tomatenconserven toevoegen en 10-15 min laten sudderen. Op smaak brengen met kruiden, zout en peper. Serveren met de spaghetti.
 
-## Boodschappenlijst
+## Boodschappenlijst (gesorteerd op winkel)
 
-| Product | Winkel | Prijs/aanbieding | Voor gerecht(en) |
-|---|---|---|---|
-| AH (Greenfields) Rundergehakt 300 g, 2 pakken | Albert Heijn | 1+1 gratis | Maandag, Vrijdag |
-| Scharrelkip kipfiletblokjes (400 g) | Lidl | €3,99 (Lidl Plus, -38%) | Woensdag |
-| Eieren (8 stuks nodig) | vaste voorraad | – | Maandag, Dinsdag, Donderdag |
-| Vegetarische Goudse schnitzels (pak, 2 stuks) | Lidl | €2,49 (-30%) | Dinsdag |
-| Linzen (blik, 400 g) | vaste voorraad | – | Donderdag |
-| Kikkererwten (blik, 400 g) | vaste voorraad | – | Woensdag |
-| Volkoren spaghetti (150 g nodig, vaste voorraad pak) | vaste voorraad | – | Vrijdag |
-| Kastanjechampignons bio (250 g) | Dirk | €1,69 | Maandag, Donderdag |
-| Sperziebonen (500 g) | Aldi | €1,49 (-40%) | Maandag, Donderdag |
-| Bloemkool-/broccoliroosjes (zak, 400 g) | Dirk | €1,99 | Dinsdag |
-| Ronde tomaten (500 g) | Aldi | €1,19 (-29%) | Dinsdag |
-| Aubergine (1 stuk) | Dirk | €0,49 | Woensdag |
-| Rode puntpaprika (2 stuks) | Albert Heijn | 2 voor €1,99 | Woensdag, Donderdag |
-| Ui (2 kg zak, deel gebruikt) | Dirk | €1,29 | Maandag, Woensdag, Donderdag, Vrijdag |
-| Cirio tomatenconserven (blik 400 g, 2x) | Dirk | €0,99 per blik | Donderdag, Vrijdag |
-| Olijfolie | vaste voorraad | – | Alle dagen |
-| Italiaanse kruiden (knoflookvrij) | vaste voorraad | – | Donderdag, Vrijdag |
-| Paprikapoeder, mild | vaste voorraad | – | Woensdag |
-| Zout & peper | vaste voorraad | – | Alle dagen |
-| Parmezaanse kaas, geraspt (optioneel) | vaste voorraad | – | Vrijdag |
+### Albert Heijn
+| Product | Prijs/aanbieding | Voor gerecht(en) |
+|---|---|---|
+| AH (Greenfields) Rundergehakt 300 g, 2 pakken | 1+1 gratis | Maandag, Vrijdag |
+| Rode puntpaprika (2 stuks) | 2 voor €1,99 | Woensdag, Donderdag |
+
+### Aldi
+| Product | Prijs/aanbieding | Voor gerecht(en) |
+|---|---|---|
+| Sperziebonen (500 g) | €1,49 (-40%) | Maandag, Donderdag |
+| Ronde tomaten (500 g) | €1,19 (-29%) | Dinsdag |
+
+### Dirk
+| Product | Prijs/aanbieding | Voor gerecht(en) |
+|---|---|---|
+| Kastanjechampignons bio (250 g) | €1,69 | Maandag, Donderdag |
+| Bloemkool-/broccoliroosjes (zak, 400 g) | €1,99 | Dinsdag |
+| Aubergine (1 stuk) | €0,49 | Woensdag |
+| Ui (2 kg zak, deel gebruikt) | €1,29 | Maandag, Woensdag, Donderdag, Vrijdag |
+| Cirio tomatenconserven (blik 400 g, 2x) | €0,99 per blik | Donderdag, Vrijdag |
+
+### Lidl
+| Product | Prijs/aanbieding | Voor gerecht(en) |
+|---|---|---|
+| Scharrelkip kipfiletblokjes (400 g) | €3,99 (Lidl Plus, -38%) | Woensdag |
+| Vegetarische Goudse schnitzels (pak, 2 stuks) | €2,49 (-30%) | Dinsdag |
+
+### Vaste voorraad
+| Product | Prijs/aanbieding | Voor gerecht(en) |
+|---|---|---|
+| Eieren (8 stuks nodig) | – | Maandag, Dinsdag, Donderdag |
+| Linzen (blik, 400 g) | – | Donderdag |
+| Kikkererwten (blik, 400 g) | – | Woensdag |
+| Volkoren spaghetti (150 g nodig) | – | Vrijdag |
+| Olijfolie | – | Alle dagen |
+| Italiaanse kruiden (knoflookvrij) | – | Donderdag, Vrijdag |
+| Paprikapoeder, mild | – | Woensdag |
+| Zout & peper | – | Alle dagen |
+| Parmezaanse kaas, geraspt (optioneel) | – | Vrijdag |
 
 **Let op — knoflook:** het menu en deze lijst zijn knoflookvrij samengesteld. Controleer bij aankoop wel zelf het etiket van kant-en-klare producten zoals de vegetarische schnitzels (paneerlaag) en tomatenconserven/bouillon, aangezien fabrikanten kruidenmixen soms zonder waarschuwing kunnen wijzigen en verborgen knoflook kunnen bevatten.
