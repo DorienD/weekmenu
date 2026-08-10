@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WEEKLY MENU — JUL 27/31</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --black:#111111;
+    --paper:#F2F0E8;
+    --blue:#204482;
+    --pink:#e5b3b6;
+  }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background:var(--paper);
+    color:var(--black);
+    font-family:'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-weight:500;
+    line-height:1.5;
+    padding:0 0 80px 0;
+  }
+  a{ color:var(--blue); text-decoration:underline; text-underline-offset:3px; }
+  a:hover{ color:var(--black); }
+  .wrap{ max-width:1000px; margin:0 auto; padding:0 24px; }
+  .topbar{ background:var(--blue); height:8px; width:100%; }
+  header.hero{ padding:48px 0 30px 0; }
+  h1.title{
+    font-size:clamp(38px,8vw,72px);
+    line-height:1;
+    margin:0 0 4px 0;
+    text-transform:uppercase;
+    letter-spacing:-1px;
+    font-weight:800;
+    display:inline-block;
+    border-bottom:5px solid var(--black);
+    padding-bottom:6px;
+  }
+  h1.title span{ color:var(--blue); }
+  .dek{ margin-top:16px; font-size:16px; font-weight:500; max-width:520px; }
+  .subbar{ margin-top:20px; display:flex; flex-wrap:wrap; gap:8px; }
+  .tag{
+    background:#fff; color:var(--black); border:1.5px solid var(--black);
+    border-radius:20px; padding:5px 14px; font-size:13px;
+    text-transform:uppercase; letter-spacing:0.5px; font-weight:600;
+  }
+  .tag.blue{ background:var(--blue); color:#fff; border-color:var(--blue); }
+  .tag.pink{ background:var(--pink); color:var(--black); border-color:var(--black); }
+  .tag.small{ padding:2px 10px; font-size:10px; }
+  .section{ margin-top:56px; }
+  .section-label{
+    display:inline-block; color:var(--black); text-transform:uppercase;
+    font-size:26px; font-weight:800; letter-spacing:-0.5px; margin:0 0 24px 0;
+    border-bottom:4px solid var(--black); padding-bottom:4px;
+  }
+  .section-label.on-band{ border-bottom-color:var(--blue); color:var(--blue); }
+  ul.plain{ margin:0; padding-left:20px; font-weight:500; }
+  ul.plain li{ margin-bottom:10px; }
+  blockquote.note{
+    background:#fff; border-left:4px solid var(--blue); padding:12px 16px;
+    margin:16px 0 0 0; font-weight:500; font-size:14px;
+  }
+  table{ width:100%; border-collapse:collapse; background:transparent; }
+  th,td{ border-bottom:1px solid #C9C5B8; padding:9px 10px; text-align:left; font-size:14px; font-weight:500; }
+  th{ border-bottom:3px solid var(--black); text-transform:uppercase; font-size:12px; letter-spacing:0.5px; font-weight:700; padding-bottom:8px; }
+  tr:last-child td{ border-bottom:none; }
+  .overzicht-wrap{ background:#fff; border:1.5px solid var(--black); padding:6px 20px; }
+  .recipe{ background:#fff; border:1.5px solid var(--black); padding:22px 24px; margin-bottom:20px; }
+  .recipe:last-child{ margin-bottom:0; }
+  .recipe-head{ display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:10px; }
+  .daypill{
+    background:var(--blue); color:#fff; font-size:12px; font-weight:700;
+    letter-spacing:0.5px; padding:4px 12px; border-radius:20px; text-transform:uppercase;
+  }
+  .recipe:nth-child(even) .daypill{ background:var(--black); }
+  .recipe h3{ margin:0; text-transform:uppercase; font-size:19px; font-weight:700; letter-spacing:-0.3px; display:inline; }
+  .recipe .meta{ font-size:12px; font-weight:600; color:#5b5648; text-transform:uppercase; }
+  .recipe h4{ margin:16px 0 8px 0; text-transform:uppercase; font-size:12px; font-weight:700; color:var(--blue); letter-spacing:0.5px; }
+  .recipe p{ font-weight:500; font-size:14.5px; margin:6px 0; }
+  .recipe ol.steps{ margin:0; padding-left:0; list-style:none; counter-reset:step; }
+  .recipe ol.steps li{ counter-increment:step; font-weight:500; font-size:14.5px; margin-bottom:8px; padding-left:30px; position:relative; }
+  .recipe ol.steps li::before{ content:counter(step); position:absolute; left:0; top:0; color:var(--blue); font-weight:800; font-size:13px; }
+  .band{ background:var(--pink); margin-top:56px; padding:48px 0; }
+  .band .section{ margin-top:0; }
+  .stores{ display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  @media (max-width:760px){ .stores{ grid-template-columns:1fr; } }
+  .store{ background:#fff; border:1.5px solid var(--black); padding:16px 18px 8px 18px; }
+  .store .storehead{ text-transform:uppercase; font-size:16px; font-weight:700; letter-spacing:-0.3px; border-bottom:3px solid var(--blue); padding-bottom:8px; margin-bottom:6px; }
+  .store.alt .storehead{ border-bottom-color:var(--black); }
+  .box{ background:#fff; border:1.5px solid var(--black); padding:20px 22px; }
+  .warn{ background:#fff; border-left:4px solid var(--black); padding:14px 18px; font-weight:600; font-size:14px; margin-top:24px; }
+  .warn::before{ content:"⚠ "; }
+  .tip{ background:#fff; border-left:4px solid var(--blue); padding:14px 18px; font-weight:500; font-size:14px; margin-top:14px; }
+  .bronnen{ list-style:none; margin:0; padding:0; }
+  .bronnen li{ padding:10px 0; border-bottom:1px solid #C9C5B8; font-size:14px; font-weight:600; }
+  .bronnen li:last-child{ border-bottom:none; }
+  footer{ margin-top:64px; border-top:1.5px solid var(--black); padding-top:18px; text-align:center; font-size:12px; text-transform:uppercase; letter-spacing:1px; color:#5b5648; }
+</style>
+</head>
+<body>
+
+<div class="topbar"></div>
+
+<div class="wrap">
+
+  <header class="hero">
+    <h1 class="title">WEEKLY<span>MENU</span></h1>
+    <p class="dek">Dinner plan and shopping list, built from that week's supermarket offers.</p>
+    <div class="subbar">
+      <span class="tag pink">JUL 27 — 31 2026</span>
+      <span class="tag blue">2 PEOPLE</span>
+      <span class="tag">MON — FRI</span>
+      <span class="tag">WEEK 31</span>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="section-label">Weekly Overview</div>
+    <div class="overzicht-wrap">
+      <table>
+        <tr><th>Day</th><th>Dish</th><th>Kcal</th><th>Protein</th><th>Type</th></tr>
+        <tr><td>MON</td><td>Beef burgers with fried egg, green beans and mushrooms</td><td>~475</td><td>~38g</td><td>Low-carb</td></tr>
+        <tr><td>TUE</td><td>Vegetarian Gouda schnitzel with soft-boiled egg, cauliflower, broccoli and tomato</td><td>~465</td><td>~24g</td><td>Low-carb · Veg</td></tr>
+        <tr><td>WED</td><td>Free-range chicken chunks with chickpeas, aubergine and bell pepper</td><td>~525</td><td>~50g</td><td>Low-carb</td></tr>
+        <tr><td>THU</td><td>Lentil and tomato stew with bell pepper, mushrooms, green beans and a fried egg</td><td>~425</td><td>~26g</td><td>Low-carb · Veg</td></tr>
+        <tr><td>FRI</td><td>Spaghetti bolognese with minced beef</td><td>~640</td><td>~37g</td><td>Carb day</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-label">Recipes</div>
+
+    <div class="recipe">
+      <div class="recipe-head">
+        <span class="daypill">Mon</span>
+        <h3>Beef burgers with fried egg, green beans and mushrooms</h3>
+      </div>
+      <span class="meta">± 20 min · serves 2</span>
+      <h4>Ingredients</h4>
+      <p>300 g AH (Greenfields) minced beef · 2 eggs · 250 g green beans (half the bag) · 125 g chestnut mushrooms (half the punnet) · 1/2 onion · olive oil, salt, pepper</p>
+      <h4>Method</h4>
+      <ol class="steps">
+        <li>Season the mince with salt and pepper and shape into 2 burgers.</li>
+        <li>Boil or steam the green beans for 8-10 min.</li>
+        <li>Meanwhile fry the mushrooms and onion in olive oil.</li>
+        <li>Fry the burgers 4-5 min per side in a pan or air fryer.</li>
+        <li>Add the fried egg in the last few minutes.</li>
+        <li>Serve the burger with the fried egg on top, mushrooms/onion and green beans on the side.</li>
+      </ol>
+      <blockquote class="note">Tip: save the other half of the green beans and mushrooms for Thursday, so both packs are fully used by the end of the week.</blockquote>
+    </div>
+
+    <div class="recipe">
+      <div class="recipe-head">
+        <span class="daypill">Tue</span>
+        <span class="tag pink small">VEG</span>
+        <h3>Vegetarian Gouda schnitzel with soft-boiled egg, cauliflower, broccoli and tomato</h3>
+      </div>
+      <span class="meta">± 20 min · serves 2 · oven/air fryer + hob</span>
+      <h4>Ingredients</h4>
+      <p>1 pack (2 pcs) vegetarian Gouda schnitzels · 2 eggs · 400 g cauliflower/broccoli florets · 500 g round tomatoes · olive oil, salt, pepper</p>
+      <h4>Method</h4>
+      <ol class="steps">
+        <li>Toss the cauliflower, broccoli and halved tomatoes with olive oil, salt and pepper.</li>
+        <li>Roast for 18-20 min at 200°C.</li>
+        <li>Add the schnitzels for the final 10 min in the air fryer/oven (or cook separately per the packet).</li>
+        <li>Soft-boil the eggs for 6-7 min, peel, and serve alongside for extra protein.</li>
+      </ol>
+      <blockquote class="note">Note: check the label of the vegetarian schnitzels for hidden garlic in the breadcrumb/seasoning layer.</blockquote>
+    </div>
+
+    <div class="recipe">
+      <div class="recipe-head">
+        <span class="daypill">Wed</span>
+        <h3>Free-range chicken chunks with chickpeas, aubergine and bell pepper</h3>
+      </div>
+      <span class="meta">± 20 min · serves 2</span>
+      <h4>Ingredients</h4>
+      <p>400 g free-range diced chicken breast · 1 can chickpeas (400 g, drained) · 1 aubergine · 1 red bell pepper (half of the 2-pack) · 1/2 onion · olive oil, salt, pepper, mild paprika powder</p>
+      <h4>Method</h4>
+      <ol class="steps">
+        <li>Cut the aubergine and bell pepper into cubes and fry for 8-10 min in olive oil.</li>
+        <li>Add the chickpeas and onion, cook 5 min more with the paprika powder.</li>
+        <li>In a separate pan, fry the chicken chunks 8-10 min until browned and cooked through.</li>
+        <li>Serve together.</li>
+      </ol>
+      <blockquote class="note">This is the only legume dish of the week and contains no cabbage-family vegetables, to spread gas-forming foods across the week. A generous protein portion since the whole chicken pack is used (no waste).</blockquote>
+    </div>
+
+    <div class="recipe">
+      <div class="recipe-head">
+        <span class="daypill">Thu</span>
+        <span class="tag pink small">VEG</span>
+        <h3>Lentil and tomato stew with bell pepper, mushrooms, green beans and a fried egg</h3>
+      </div>
+      <span class="meta">± 20 min · serves 2</span>
+      <h4>Ingredients</h4>
+      <p>1 can lentils (400 g, drained) · 1 can Cirio chopped tomatoes (approx. 400 g) · 1 red bell pepper (rest of the 2-pack) · 125 g mushrooms (rest of the punnet) · 250 g green beans (rest of the bag) · 4 eggs · 1/2 onion · olive oil, salt, pepper, garlic-free Italian herbs</p>
+      <h4>Method</h4>
+      <ol class="steps">
+        <li>Fry the onion, bell pepper and mushrooms for 5 min in olive oil.</li>
+        <li>Add the lentils and chopped tomatoes, season with herbs, salt and pepper, simmer for 8-10 min.</li>
+        <li>Cook or steam the green beans separately (8 min) and stir through.</li>
+        <li>Fry 2 eggs per person and serve on top of the stew.</li>
+      </ol>
+      <blockquote class="note">Second vegetarian day of the week, not adjacent to Tuesday. Legumes are combined with extra egg here for enough protein.</blockquote>
+    </div>
+
+    <div class="recipe">
+      <div class="recipe-head">
+        <span class="daypill">Fri</span>
+        <h3>Spaghetti bolognese with minced beef</h3>
+      </div>
+      <span class="meta">± 25 min · serves 2</span>
+      <h4>Ingredients</h4>
+      <p>300 g AH (Greenfields) minced beef · 150 g wholewheat spaghetti · 1 can Cirio chopped tomatoes (approx. 400 g) · 1/2 onion · olive oil, salt, pepper, garlic-free Italian herbs · optional grated Parmesan</p>
+      <h4>Method</h4>
+      <ol class="steps">
+        <li>Cook the spaghetti according to the packet.</li>
+        <li>Brown the mince with the onion.</li>
+        <li>Add the chopped tomatoes and simmer for 10-15 min.</li>
+        <li>Season with herbs, salt and pepper.</li>
+        <li>Serve with the spaghetti.</li>
+      </ol>
+    </div>
+  </section>
+
+</div>
+
+<div class="band">
+  <div class="wrap">
+    <section class="section">
+      <div class="section-label on-band">Shopping List</div>
+
+      <div class="stores">
+        <div class="store">
+          <div class="storehead">Albert Heijn</div>
+          <table>
+            <tr><th>Product</th><th>Price</th><th>For</th></tr>
+            <tr><td>AH (Greenfields) minced beef 300g, 2 packs</td><td>1+1 free</td><td>Mon, Fri</td></tr>
+            <tr><td>Red pointed bell peppers (2 pcs)</td><td>2 for €1.99</td><td>Wed, Thu</td></tr>
+          </table>
+        </div>
+
+        <div class="store alt">
+          <div class="storehead">Aldi</div>
+          <table>
+            <tr><th>Product</th><th>Price</th><th>For</th></tr>
+            <tr><td>Green beans (500g)</td><td>€1.49 (-40%)</td><td>Mon, Thu</td></tr>
+            <tr><td>Round tomatoes (500g)</td><td>€1.19 (-29%)</td><td>Tue</td></tr>
+          </table>
+        </div>
+
+        <div class="store">
+          <div class="storehead">Dirk</div>
+          <table>
+            <tr><th>Product</th><th>Price</th><th>For</th></tr>
+            <tr><td>Organic chestnut mushrooms (250g)</td><td>€1.69</td><td>Mon, Thu</td></tr>
+            <tr><td>Cauliflower/broccoli florets (bag, 400g)</td><td>€1.99</td><td>Tue</td></tr>
+            <tr><td>Aubergine (1 pc)</td><td>€0.49</td><td>Wed</td></tr>
+            <tr><td>Onion (2kg bag, partly used)</td><td>€1.29</td><td>Mon, Wed, Thu, Fri</td></tr>
+            <tr><td>Cirio chopped tomatoes (can 400g, 2x)</td><td>€0.99 per can</td><td>Thu, Fri</td></tr>
+          </table>
+        </div>
+
+        <div class="store alt">
+          <div class="storehead">Lidl</div>
+          <table>
+            <tr><th>Product</th><th>Price</th><th>For</th></tr>
+            <tr><td>Free-range diced chicken breast (400g)</td><td>€3.99 (Lidl Plus, -38%)</td><td>Wed</td></tr>
+            <tr><td>Vegetarian Gouda schnitzels (pack, 2 pcs)</td><td>€2.49 (-30%)</td><td>Tue</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="box" style="margin-top:24px;">
+        <div class="section-label" style="font-size:16px; margin-bottom:14px;">Pantry Staples</div>
+        <ul class="plain">
+          <li>Eggs (8 needed)</li>
+          <li>Lentils (can, 400g)</li>
+          <li>Chickpeas (can, 400g)</li>
+          <li>Wholewheat spaghetti (150g needed)</li>
+          <li>Olive oil</li>
+          <li>Italian herbs (garlic-free)</li>
+          <li>Paprika powder, mild</li>
+          <li>Salt &amp; pepper</li>
+          <li>Grated Parmesan (optional)</li>
+        </ul>
+      </div>
+
+      <div class="warn">GARLIC ALLERGY — this menu and list were put together garlic-free. When shopping, still check the label of ready-made products like the vegetarian schnitzels (breadcrumb layer) and chopped tomatoes/stock, as manufacturers can change spice mixes without warning and hidden garlic can slip in.</div>
+    </section>
+  </div>
+</div>
+
+<div class="wrap">
+  <footer>Weekly Menu &amp; Shopping List — July 27-31, 2026 — Week 31</footer>
+</div>
+
+</body>
+</html>
