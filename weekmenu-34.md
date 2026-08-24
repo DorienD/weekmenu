@@ -1,13 +1,12 @@
-# Weekmenu week 34 (ma 17 aug – vr 21 aug)
+# Weekmenu week 34 (ma 17 aug – wo 19 aug)
 
-Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag** (geen donderdag) · vegetarisch op **dinsdag** en **vrijdag**
+Voor 2 personen · deze week 3 kookdagen: **maandag, dinsdag, woensdag** · vegetarisch op **dinsdag**
 
 | Dag | Gerecht | kcal/portie | Eiwit/portie | Type | Vegetarisch |
 |---|---|---|---|---|---|
 | Maandag | Kip-roerbak met paprika en courgette | ~380 kcal | ~37 g | Laag koolhydraat | Nee |
 | Dinsdag | Shakshuka met witte bonen, tomaat en spinazie | ~380 kcal | ~26 g | Laag koolhydraat | Ja |
 | Woensdag | Volkoren pasta bolognese met rundergehakt en geroosterde bloemkool | ~700 kcal | ~34 g | Koolhydraatdag | Nee |
-| Vrijdag | Vegan burgers met linzen-tomatensalade en kwarkdressing | ~430 kcal | ~30 g | Laag koolhydraat | Ja |
 
 ---
 
@@ -37,7 +36,7 @@ Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag*
 **Ingrediënten (2 pers.):**
 - 4 eieren
 - 1 blik witte bonen in tomatensaus (370 ml), uitgelekt
-- 200 g trostomaten, in parten (rest bewaren voor vrijdag)
+- 200 g trostomaten, in parten
 - 150 g spinazie
 - 40 g feta
 - olijfolie, peper, zoete paprikapoeder
@@ -76,24 +75,6 @@ Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag*
 
 ---
 
-### Vrijdag – Vegan burgers met linzen-tomatensalade en kwarkdressing
-**Ingrediënten (2 pers.):**
-- 2 vegan (Oosterse) burgers
-- 1 blik linzen (425 ml), uitgelekt
-- rest trostomaten (ca. 100 g), in blokjes
-- handje sla of veldsla
-- 100 g Griekse kwark
-- citroensap, peper, zout, olijfolie
-
-**Bereiding (~20 min):**
-1. Verwarm de airfryer voor op 180°C.
-2. Bak de burgers 10-12 min, halverwege keren.
-3. Meng de linzen, tomaat en sla met een beetje olie en peper tot een salade.
-4. Meng de kwark met citroensap, peper en zout tot een dressing.
-5. Serveer de burgers met de linzensalade en dressing.
-
----
-
 ## Boodschappenlijst
 
 ### Albert Heijn
@@ -108,14 +89,12 @@ Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag*
 | Product | Prijs/aanbieding | Voor gerecht(en) |
 |---|---|---|
 | Scharreleieren 20 stuks | €4,49 | Shakshuka (di) |
-| Vegan Oosterse burgers, 2 stuks | €1,49 (was €1,69) | Vegan burgers (vr) |
 
 ### Dirk
 
 | Product | Prijs/aanbieding | Voor gerecht(en) |
 |---|---|---|
 | Hollandse spinazie 450 g | €1,49 | Shakshuka (di) |
-| Campina kwark Griekse stijl | €2,49 (was €3,35) | Dressing bij vegan burgers (vr) |
 
 ### Lidl
 
@@ -124,8 +103,7 @@ Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag*
 | Kipfilet 600 g | €5,99 (was €8,28) | Kip-roerbak (ma) |
 | Extra mager rundergehakt 750 g | €8,99 (was €11,04) | Pastasaus (wo) |
 | Witte bonen in tomatensaus 370 ml | €0,49 (was €0,64) | Shakshuka (di) |
-| Trostomaten | €0,69 (was €0,99) | Shakshuka (di), vegan burgers (vr) |
-| Linzen 425 ml | €0,79 (was €0,95) | Vegan burgers (vr) |
+| Trostomaten | €0,69 (was €0,99) | Shakshuka (di) |
 | Bloemkool (1 stuk) | €1,19 (was €1,75) | Pastasaus (wo) |
 
 ### Vaste voorraad
@@ -137,4 +115,4 @@ Voor 2 personen · deze week 4 kookdagen: **maandag, dinsdag, woensdag, vrijdag*
 - Olijfolie — alle dagen
 - Zout, peper, zoete paprikapoeder, Italiaanse kruiden, citroensap — diverse gerechten
 
-⚠️ **Let op verborgen knoflook:** controleer labels van kant-en-klare kruidenmixen (bijv. "Italiaanse kruiden"), de vegan burgers en de witte bonen in tomatensaus — sommige bevatten knoflookpoeder. Kies bij twijfel een pure/naturel variant.
+⚠️ **Let op verborgen knoflook:** controleer labels van kant-en-klare kruidenmixen (bijv. "Italiaanse kruiden") en de witte bonen in tomatensaus — sommige bevatten knoflookpoeder. Kies bij twijfel een pure/naturel variant.
