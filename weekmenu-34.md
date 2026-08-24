@@ -4,74 +4,73 @@ Voor 2 personen · deze week 3 kookdagen: **maandag, dinsdag, woensdag** · vege
 
 | Dag | Gerecht | kcal/portie | Eiwit/portie | Type | Vegetarisch |
 |---|---|---|---|---|---|
-| Maandag | Kip-roerbak met paprika en courgette | ~380 kcal | ~37 g | Laag koolhydraat | Nee |
-| Dinsdag | Shakshuka met witte bonen, tomaat en spinazie | ~380 kcal | ~26 g | Laag koolhydraat | Ja |
-| Woensdag | Volkoren pasta bolognese met rundergehakt en geroosterde bloemkool | ~700 kcal | ~34 g | Koolhydraatdag | Nee |
+| Maandag | Mediterrane kip-groente traybake | ~380 kcal | ~35 g | Laag koolhydraat | Nee |
+| Dinsdag | Warme linzen-fetasalade met geroosterde paprika, cherrytomaatjes en gepocheerd ei | ~420 kcal | ~25 g | Laag koolhydraat | Ja |
+| Woensdag | Spaanse rijstschotel met rundergehakt | ~650 kcal | ~33 g | Koolhydraatdag | Nee |
 
 ---
 
 ## Recepten
 
-### Maandag – Kip-roerbak met paprika en courgette
+### Maandag – Mediterrane kip-groente traybake
 **Ingrediënten (2 pers.):**
-- 300 g kipfilet, in reepjes (rest van het pak invriezen voor volgende week)
-- 200 g paprikamix (rest bewaren voor woensdag)
-- 1 courgette
-- olijfolie
-- peper, zoete paprikapoeder (niet pittig)
-- scheutje citroensap
-
-**Bereiding (~20 min):**
-1. Snijd paprika en courgette in reepjes.
-2. Verhit olie in wok/koekenpan, bak de kipreepjes 6-7 min tot gaar en goudbruin.
-3. Voeg paprika en courgette toe, bak op hoog vuur 5-6 min tot beetgaar.
-4. Breng op smaak met peper, paprikapoeder en citroensap.
-5. Direct serveren.
-
-*Toelichting: het kipfiletpak is 600 g; de resterende 300 g invriezen voorkomt verspilling voor een volgende week.*
-
----
-
-### Dinsdag – Shakshuka met witte bonen, tomaat en spinazie
-**Ingrediënten (2 pers.):**
-- 4 eieren
-- 1 blik witte bonen in tomatensaus (370 ml), uitgelekt
-- 200 g trostomaten, in parten
-- 150 g spinazie
-- 40 g feta
-- olijfolie, peper, zoete paprikapoeder
-
-**Bereiding (~20 min):**
-1. Verhit olie in een koekenpan.
-2. Voeg tomaten en de witte bonen toe, laat 5 min sudderen.
-3. Voeg spinazie toe en laat slinken, 2 min.
-4. Maak 4 kuiltjes in het mengsel, breek de eieren erin. Doe een deksel op de pan en laat 6-8 min pocheren tot het eiwit gestold is en de dooier nog zacht.
-5. Verkruimel de feta erover, breng op smaak met peper en paprikapoeder.
-
-*Toelichting: enige peulvruchtengerecht op deze dag; woensdag bevat geen peulvruchten of kool om stapeling te voorkomen.*
-
----
-
-### Woensdag – Volkoren pasta bolognese met rundergehakt en geroosterde bloemkool
-**Ingrediënten (2 pers.):**
-- 300 g rundergehakt (rest van het pak invriezen voor volgende week)
-- 100 g paprikamix (rest van maandag)
-- 1 blik tomatenblokjes (400 g)
-- 250 g volkoren pasta
-- 1 bloemkool, in roosjes
-- Italiaanse kruiden (let op knoflookvrije variant), zout, peper, olijfolie
-- Parmezaanse kaas, geraspt (optioneel)
+- 300 g kipfilet, in grove stukken (rest van het pak invriezen voor volgende week)
+- 400 g broccoli/wortel/bloemkoolmix
+- 1 rode ui, in parten
+- olijfolie, citroen, gedroogde oregano, zout, peper
 
 **Bereiding (~25 min):**
 1. Verwarm de oven voor op 200°C.
-2. Meng de bloemkoolroosjes met een beetje olie, zout en peper; rooster 18-20 min in de oven.
-3. Kook ondertussen de pasta volgens de verpakking.
-4. Verhit olie in een pan, bak het gehakt rul en bruin, 6-8 min.
-5. Voeg paprika toe, 3 min meebakken.
-6. Voeg de tomatenblokjes en Italiaanse kruiden toe, laat 8-10 min sudderen. Breng op smaak.
-7. Serveer de pastasaus over de pasta met de bloemkool erbij, eventueel met Parmezaanse kaas.
+2. Meng de kipstukken met de broccoli/wortel/bloemkoolmix en ui op een bakplaat.
+3. Besprenkel met olijfolie, citroensap, oregano, zout en peper.
+4. Rooster 22-25 min tot de kip gaar is en de groenten zacht en licht gekarameliseerd zijn.
+5. Serveer direct, eventueel met een extra partje citroen.
 
-*Toelichting: het gehaktpak is 750 g; de resterende 450 g invriezen voorkomt verspilling voor een volgende week.*
+*Toelichting: traybake in de oven i.p.v. de gebruikelijke roerbak op het vuur, voor variatie. Het kipfiletpak is 600 g; de resterende 300 g invriezen voorkomt verspilling.*
+
+---
+
+### Dinsdag – Warme linzen-fetasalade met geroosterde paprika, cherrytomaatjes en gepocheerd ei
+**Ingrediënten (2 pers.):**
+- 1 blik linzen (425 ml), uitgelekt
+- 1 paprika, in stukken (rest bewaren voor woensdag)
+- 200 g cherrytomaatjes
+- 40 g feta, verkruimeld
+- 2 eieren
+- rodewijnazijn, olijfolie, citroen, gedroogde oregano
+- handje walnoten (optioneel)
+
+**Bereiding (~20 min):**
+1. Verwarm de oven (of airfryer) voor op 200°C.
+2. Rooster de paprika en cherrytomaatjes 12-15 min met een beetje olie, zout en peper.
+3. Verwarm de linzen kort in een pannetje met een scheutje water.
+4. Pocheer de eieren 3-4 min in bijna kokend water.
+5. Meng de linzen, geroosterde groenten, feta, rodewijnazijn, olijfolie en oregano tot een warme salade.
+6. Verdeel over 2 borden, leg het gepocheerde ei erop en werk af met walnoten.
+
+*Toelichting: warme eiwitsalade i.p.v. de klassieke ei- of bonenschotel-vorm, voor variatie. Enige peulvruchtengerecht deze week; geen koolgerecht op dezelfde dag om gasvorming te beperken.*
+
+---
+
+### Woensdag – Spaanse rijstschotel met rundergehakt
+**Ingrediënten (2 pers.):**
+- 300 g rundergehakt (rest van het pak invriezen voor volgende week)
+- 200 g rijst
+- rest paprika (van dinsdag, ca. 100 g)
+- 1 blik tomatenblokjes (400 g)
+- 100 g diepvrieserwten
+- gerookt zoet paprikapoeder (niet pittig), bouillon, olijfolie, zout, peper
+- citroenpartjes om te serveren
+
+**Bereiding (~25 min):**
+1. Verhit olie in een grote pan of hapjespan, bak het gehakt rul en bruin, 5-6 min.
+2. Voeg de paprika toe, 3 min meebakken.
+3. Voeg rijst, tomatenblokjes, gerookt paprikapoeder en bouillon toe, breng aan de kook.
+4. Zet het vuur laag, doe een deksel op de pan en laat 15-18 min garen tot de rijst gaar is (roer af en toe om).
+5. Voeg de laatste 3 min de erwten toe.
+6. Breng op smaak met zout en peper, serveer met een partje citroen.
+
+*Toelichting: Spaans-geïnspireerd eenpansgerecht i.p.v. de gebruikelijke pasta bolognese, voor variatie. Het gehaktpak is 750 g; de resterende 450 g invriezen voorkomt verspilling.*
 
 ---
 
@@ -81,38 +80,34 @@ Voor 2 personen · deze week 3 kookdagen: **maandag, dinsdag, woensdag** · vege
 
 | Product | Prijs/aanbieding | Voor gerecht(en) |
 |---|---|---|
-| Paprikamix 3 stuks | €1,49 (was €1,99) | Kip-roerbak (ma), pastasaus (wo) |
-| Courgette (1 stuk) | 2 voor €0,99 | Kip-roerbak (ma) |
-
-### Aldi
-
-| Product | Prijs/aanbieding | Voor gerecht(en) |
-|---|---|---|
-| Scharreleieren 20 stuks | €4,49 | Shakshuka (di) |
+| Broccoli/wortel/bloemkoolmix 400 g | 2e halve prijs (koop 2, gebruik 1 deze week) | Traybake (ma) |
+| Paprika, 3 stuks | €1,49 (was €1,99) | Linzensalade (di), Spaanse rijst (wo) |
 
 ### Dirk
 
 | Product | Prijs/aanbieding | Voor gerecht(en) |
 |---|---|---|
-| Hollandse spinazie 450 g | €1,49 | Shakshuka (di) |
+| Biologische mini troscherrytomaatjes 200 g | €2,49 | Linzensalade (di) |
 
 ### Lidl
 
 | Product | Prijs/aanbieding | Voor gerecht(en) |
 |---|---|---|
-| Kipfilet 600 g | €5,99 (was €8,28) | Kip-roerbak (ma) |
-| Extra mager rundergehakt 750 g | €8,99 (was €11,04) | Pastasaus (wo) |
-| Witte bonen in tomatensaus 370 ml | €0,49 (was €0,64) | Shakshuka (di) |
-| Trostomaten | €0,69 (was €0,99) | Shakshuka (di) |
-| Bloemkool (1 stuk) | €1,19 (was €1,75) | Pastasaus (wo) |
+| Kipfilet 600 g | €5,99 (was €8,28) | Traybake (ma) |
+| Extra mager rundergehakt 750 g | €8,99 (was €11,04) | Spaanse rijst (wo) |
+| Linzen 425 ml | €0,79 (was €0,95) | Linzensalade (di) |
 
 ### Vaste voorraad
 
-- Blik tomatenblokjes 400 g — pastasaus (wo)
-- Volkoren pasta 250 g — pastasaus (wo)
-- Feta 40 g — shakshuka (di)
-- Parmezaanse kaas, geraspt (optioneel) — pastasaus (wo)
-- Olijfolie — alle dagen
-- Zout, peper, zoete paprikapoeder, Italiaanse kruiden, citroensap — diverse gerechten
+- Eieren (2 stuks) — linzensalade (di)
+- Rijst 200 g — Spaanse rijst (wo)
+- Blik tomatenblokjes 400 g — Spaanse rijst (wo)
+- Diepvrieserwten 100 g — Spaanse rijst (wo)
+- Feta 40 g — linzensalade (di)
+- Walnoten (optioneel) — linzensalade (di)
+- Rode ui — traybake (ma)
+- Olijfolie, citroen, gedroogde oregano, rodewijnazijn, gerookt zoet paprikapoeder, bouillon, zout, peper — diverse gerechten
 
-⚠️ **Let op verborgen knoflook:** controleer labels van kant-en-klare kruidenmixen (bijv. "Italiaanse kruiden") en de witte bonen in tomatensaus — sommige bevatten knoflookpoeder. Kies bij twijfel een pure/naturel variant.
+**Geschatte totaalprijs deze week: ca. €23**
+
+⚠️ **Let op verborgen knoflook:** controleer labels van kant-en-klare kruidenmixen, bouillonblokjes en de broccoli/wortel/bloemkoolmix — sommige bevatten knoflookpoeder. Kies bij twijfel een pure/naturel variant.
